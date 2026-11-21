@@ -1,0 +1,2 @@
+Push test from Claude session on 2026-11-21 (Asia/Manila).
+If you can read this on GitHub, writing to atlas-outputs works.
